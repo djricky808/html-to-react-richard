@@ -1,5 +1,5 @@
 import React from "react";
-import '../character-cards.css'
+import "../character-cards.css";
 
 class CharacterCard extends React.Component {
   render() {

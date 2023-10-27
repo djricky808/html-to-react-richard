@@ -79,8 +79,7 @@ const characters = [
     skillset: ["Healing Alchemy", "Making Philospher Stones"],
     background:
       "Dr. Marcoh did some F**ked up S**t in the war on ishval, but his redemption arc is strong",
-    imageUrl:
-      "https://static.wikia.nocookie.net/fma/images/8/88/Marcoh.png",
+    imageUrl: "https://static.wikia.nocookie.net/fma/images/8/88/Marcoh.png",
   },
   {
     name: "Winrey Rockbell",

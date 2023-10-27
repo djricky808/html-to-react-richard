@@ -1,4 +1,4 @@
-import '../character-ratings.css';
+import "../character-ratings.css";
 
 export function Ranking({ characters }) {
   const SortedCharacters = characters.sort((a, b) => b.votes - a.votes);
